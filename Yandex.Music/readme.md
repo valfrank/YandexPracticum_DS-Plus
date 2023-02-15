@@ -15,13 +15,13 @@ Some myths reflect reality. Others are empty stereotypes. Business must distingu
 
 ## Data
 
-userID - user ID;
-Track - track name;
-artist - artist name;
-genre - the name of the genre;
-City — user's city;
-time — listening start time;
-Day - the day of the week.
++ userID - user ID;
++ Track - track name;
++ artist - artist name;
++ genre - the name of the genre;
++ City — user's city;
++ time — listening start time;
++ Day - the day of the week.
 
 ## Skills and tools
 - python
