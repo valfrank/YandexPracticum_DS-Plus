@@ -3,7 +3,7 @@ Projects completed during the "Data Science plus" Professional Training Course p
 
 | №  | Project                      | Description                                              | Libraries     |
 |----| ---------------------------- | -------------------------------------------------------- | ------------- |
-| 1. | Yandex.Music clients analysis| Based on Yandex.Music data, a comparison was made between users of the two cities. | pandas  |
+| 1. | [Yandex.Music clients analysis](https://github.com/valfrank/YandexPracticum_DS-Plus/tree/main/Yandex.Music)| Based on Yandex.Music data, a comparison was made between users of the two cities. | pandas  |
 | 2. | Content Cell                 | Content Cell  | Content Cell  |
 | 3. | 
 | 4. |
