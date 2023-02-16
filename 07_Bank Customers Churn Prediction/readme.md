@@ -39,4 +39,4 @@ Data: [kaggle](https://www.kaggle.com/barelydedicated/bank-customer-churn-modeli
 - GridSearchCV
 - StandartScaler
 - Imbalanced data
-- Regression metrics: F1, roc-auc score, roc curve
+- Classification metrics: F1, roc-auc score, roc curve
