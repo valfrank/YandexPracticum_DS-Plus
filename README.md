@@ -12,12 +12,12 @@ Projects completed during the "Data Science plus" Professional Training Course p
 | 7. | [Bank Customers Churn Prediction](https://github.com/valfrank/YandexPracticum_DS-Plus/tree/main/07_Bank%20Customers%20Churn%20Prediction)|Based on historical data about customers' behavior predict whether a customer will churn or not|python, pandas,mathplotlib, sklearn|
 | 8. |[Choosing a location for an oil well](https://github.com/valfrank/YandexPracticum_DS-Plus/tree/main/08_Choosing%20a%20location%20for%20an%20oil%20well)|Build a model to determine the region where mining will bring the most profit.|python, pandas, sklearn, mathplotlib|
 | 9. |[Hotel reservation cancellation prediction](https://github.com/valfrank/YandexPracticum_DS-Plus/tree/main/09_Hotel%20reservation%20cancellation%20prediction)|Build a model to predict сancel reservation with the greatest business profit|python, pandas, sklearn, mathplotlib, seaborn, sweetviz|
-| 10.|
-| 11.|
-| 12.|
-| 13.|
-| 14.|
-| 15.|
+| 10.|[House price prediction](https://github.com/valfrank/YandexPracticum_DS-Plus/tree/main/10_House%20price%20prediction)|Build a model to predict median cost of a house w/Pyspark|python, pandas, sklearn, mathplotlib, seaborn, sweetviz|
+| 11.|[Protection of clients personal data](https://github.com/valfrank/YandexPracticum_DS-Plus/tree/main/11_Protection%20of%20clients%20personal%20data)|Propose a data transformation algorithm to protect the personal data of customers|python, pandas, sklearn, mathplotlib, phik.report|
+| 12.|[Car price prediction](https://github.com/valfrank/YandexPracticum_DS-Plus/tree/main/12_Car%20price%20prediction)|Build a model that can determine the cost of a car w/gradient boosting library|python, pandas, numpy, sklearn, mathplotlib, seaborn, sweetviz, lightgbm, xgboost,scipy|
+| 13.|[Star temperature prediction using torchvision](https://github.com/valfrank/YandexPracticum_DS-Plus/tree/main/13_Star%20temperature%20prediction%20using%20torchvision)|Teach FCNNs to determine the temperature on the surface of the discovered stars w/PyTorch|python, pandas, numpy, sklearn, pytorch|
+| 14.|[Car accident prediction](https://github.com/valfrank/YandexPracticum_DS-Plus/tree/main/14_Car%20accident%20prediction)|Identify the main causes of accidents and develop a model for assessing the risk of accidents on the selected route|python, sql, pandas, seaborn, sweetviz, sklearn, CatBoost, AdaBoost, phik correlation|
+| 15.|[Forecasting taxi orders](https://github.com/valfrank/YandexPracticum_DS-Plus/tree/main/15_Forecasting%20taxi%20orders)|Time series forecasting of the number of taxi orders|python, pandas, seaborn, sklearn, XGBoost, LightGBM|
 | 16.|
 | 17.|
 | 18.|
