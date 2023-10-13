@@ -18,7 +18,7 @@ Projects completed during the "Data Science plus" Professional Training Course p
 | 13.|[Star temperature prediction using torchvision](https://github.com/valfrank/YandexPracticum_DS-Plus/tree/main/13_Star%20temperature%20prediction%20using%20torchvision)|Teach FCNNs to determine the temperature on the surface of the discovered stars w/PyTorch|python, pandas, numpy, sklearn, pytorch|
 | 14.|[Car accident prediction](https://github.com/valfrank/YandexPracticum_DS-Plus/tree/main/14_Car%20accident%20prediction)|Identify the main causes of accidents and develop a model for assessing the risk of accidents on the selected route|python, sql, pandas, seaborn, sweetviz, sklearn, CatBoost, AdaBoost, phik correlation|
 | 15.|[Forecasting taxi orders](https://github.com/valfrank/YandexPracticum_DS-Plus/tree/main/15_Forecasting%20taxi%20orders)|Time series forecasting of the number of taxi orders|python, pandas, seaborn, sklearn, XGBoost, LightGBM|
-| 16.|
+| 16.|[Toxic comments classifier](https://github.com/valfrank/YandexPracticum_DS-Plus/tree/main/16_Toxic_comment_classifier)|Sentiment analysis of comments| python, pandas, pytorch, nltk, GloVe, tf-idf|
 | 17.|
 | 18.|
 | 19.|
