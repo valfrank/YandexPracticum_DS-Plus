@@ -1,27 +1,26 @@
-# Forecasting taxi orders
+# Sentiment analysis of comments
 
 ## Project description
 
-The Taxi company has collected historical data on taxi orders at airports. To attract more drivers during the peak period, you need to predict the number of taxi orders for the next hour.
-
-Metric: RMSE 
-
-The value of the metric on the test sample should not exceed 48.
+Develop a model for categorizing comments into positive and negative comments.
 
 ## Data
-The data is in the taxi.csv file. The number of orders is in the num_orders column.
+A dataset with markup on the toxicity of edits
+
+Metric: F1-score
+The value of quality metric F1 is at least 0.75.
+
 
 ## Resume
-1. A brief analysis was carried out and features were added for training the model
-2. Hyperparameters were selected for two models XGBoostRegressor and LightGBMRegressor
-3. The best quality on cross-validation was shown by the LGBMRegressor model with RMSE=40.2
+1. Cleaning corpus, stop words and lemmatisation
+2. Brief EDA: distributions of comment length and the number of words per comment for positive and negative comments, the most frequently occurring words
+3. Using GloVe embeddings and TF-IDF for comment vectorization
+4. Train simple FCNN, Linear Regression and CatBoost
 
 ## Skills and tools
 - python
 - pandas
-- seaborn
-- sklearn
-- XGBoost
-- LightGBM
-- Time Series forecasting
-- Seasonal decompose, lagging values, calendar features, rolling mean
+- pytorch
+- nltk
+- GloVe, tf-idf
+- NLP, sentiment analysis
