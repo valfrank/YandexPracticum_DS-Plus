@@ -19,7 +19,5 @@ Projects completed during the "Data Science plus" Professional Training Course p
 | 14.|[Car accident prediction](https://github.com/valfrank/YandexPracticum_DS-Plus/tree/main/14_Car%20accident%20prediction)|Identify the main causes of accidents and develop a model for assessing the risk of accidents on the selected route|python, sql, pandas, seaborn, sweetviz, sklearn, CatBoost, AdaBoost, phik correlation|
 | 15.|[Forecasting taxi orders](https://github.com/valfrank/YandexPracticum_DS-Plus/tree/main/15_Forecasting%20taxi%20orders)|Time series forecasting of the number of taxi orders|python, pandas, seaborn, sklearn, XGBoost, LightGBM|
 | 16.|[Toxic comments classifier](https://github.com/valfrank/YandexPracticum_DS-Plus/tree/main/16_Toxic_comment_classifier)|Sentiment analysis of comments| python, pandas, pytorch, nltk, GloVe, tf-idf|
-| 17.|
-| 18.|
-| 19.|
-| 20.|
+| 17.|[Image by text](https://github.com/valfrank/YandexPracticum_DS-Plus/tree/main/17_Image_by_text)|Model return the probability that the image matches the text, so the target variable should have values between 0 and 1.|python, pandas, seaborn, sklearn, transformers, pytorch, DistilBertTokenizer, InceptionV3|
+| 18.|[Prediction alloy temperature](https://github.com/valfrank/YandexPracticum_DS-Plus/tree/main/18_Prediction_alloy_temperature)|Build a machine learning model to predict steel temperature. Achieve MAE below 6.8| python, pandas, seaborn, sklearn, pytorch, sqlalchemy, lightgbm, xgboost, optuna|
